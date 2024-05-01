@@ -1,0 +1,6 @@
+.with-border-image {
+  border-style: solid;
+  border-width: 20px;
+  border-image-source: url(https://t3.ftcdn.net/jpg/06/16/95/68/360_F_616956840_4le77cN0hlXpwsHunepY1pyMwPC0sj11.jpg);
+  border-image-slice: 60 30;
+}
